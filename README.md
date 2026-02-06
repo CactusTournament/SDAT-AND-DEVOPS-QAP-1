@@ -278,3 +278,6 @@ The **Simple Banking Application** is a concise, well-structured Java project th
 
 It is designed to be **reliable**, **maintainable**, and **easy to extend** for future enhancements.
 
+Author: Brandon Maloney & SD14
+Date: 2026-02-05
+
